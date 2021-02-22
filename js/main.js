@@ -5,7 +5,7 @@ button.addEventListener("click",function(){
     {
 	"method": "GET",
 	"headers": {
-		"x-rapidapi-key": "6c38c7dd6amsh7ea5289e0fa3b26p105da8jsn897aec2e0f99",
+		"x-rapidapi-key": "**********************************",
 		"x-rapidapi-host": "community-open-weather-map.p.rapidapi.com"
 	}
     })
