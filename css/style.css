@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@400;500;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Teko",sans-serif!important;
+}
+
+.logo{
+    font-size: 70px;
+    margin-top: 40px;
+    color: #fc6600;
+}
+
+
+.input{
+    text-align: center;
+    margin: 70px 0;
+}
+
+input[type="text"]{
+    height: 45px;
+    width: 1000px!important;
+    font-family: "Poppins",sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 2px;
+    padding: 10px 10px;
+    font-weight: 400;
+}
+
+input[type="submit"]{
+    height: 45px;
+    width: 100px;
+    font-family: "Poppins",sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 2px;
+}
+
+
+.card-title{
+    margin-top: 10px!important;
+    margin-bottom: 25px!important;
+}
+.bg-orange{
+    background-color: #fc6600!important;
+}
+.btn-primary{
+    background-color: #fc6600!important;
+    border-color: #fc6600!important;
+}
+.orange{
+    color: #fc6600!important;
+}
+.forecast-data{
+    color: #fc6600;
+    border-color: #fc6600!important;
+}
+
+.fs-30{
+    font-size: 21px;
+}
+
